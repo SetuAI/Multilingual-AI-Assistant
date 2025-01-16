@@ -60,7 +60,7 @@ def gemini_model(user_input):
 
 
 def main():
-    st.title("Multilingual AI Assistant")
+    st.title("Multilingual AI Walkie Talkie")
 
     if st.button("Ask me anything!"):
         with st.spinner("Listening..."):
