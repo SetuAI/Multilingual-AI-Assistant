@@ -1,2 +1,4 @@
 # Multilingual-AI-Assistant
-repo contains code for a multilinfual ai assitant
+
+Repo contains an introductorty AI Assistant which works with multilingual inputs.
+We are using gtts : google text-to-speech.
